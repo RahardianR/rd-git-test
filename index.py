@@ -1,0 +1,1 @@
+login = ["makan", "berak", "mati"]
